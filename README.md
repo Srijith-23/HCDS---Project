@@ -102,11 +102,11 @@ This repository is maintained for educational and demonstration purposes. Feel f
 
 ## 📬 Contact
 
-**Supriya**
+**Srijith**
 Project Trainee – IT
 HCDS Technologies
-📧 \supriyasp1504@gmail.com
-🔗 https://www.linkedin.com/in/supriya-sri-perambudhur-8a650725b/
+📧 \chennasrijith@gmail.com
+🔗 https://www.linkedin.com/in/srijith23/
 
 ---
 
