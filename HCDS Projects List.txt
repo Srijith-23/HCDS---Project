@@ -1,0 +1,73 @@
+HCDS Projects List :
+
+
+- PROJECT 1	Excel Records Processing Using RPA - Automate the Process and Perform Exception Handling  
+
+- PROJECT 2	Housekeeping Management System in the Hospitality Industry  
+
+- PROJECT 3 	Blockchain based voting system  
+
+- PROJECT 4	Organize and host webinars or workshops related to the product’s technical features  
+
+- PROJECT 5	Startup Hiring and Building a Winning Team   
+
+- PROJECT 6	Employee Attrition and Performance Analysis  
+
+- PROJECT 7	HR Employee performance tracker  
+
+- PROJECT 8	Automate extraction of handwritten text from image   
+
+- PROJECT 9	Automate detection and recognition of grammatical errors  
+
+- PROJECT 10	Automate sentiment analysis of textual comments and feedback --> Artificial Intelligence  
+
+- PROJECT 11	Create customer satisfaction survey dashboard 
+
+- PROJECT 12	Create a CAPTCHA service to secure a simple web based application ---> cyber security  
+
+- PROJECT 13	Blockchain-based Predictive Maintenance System   
+ 
+- PROJECT 14	Planning and Executing Product Launches Specifically Targeting Technical Audiences  
+
+- PROJECT 15	HR Salary dashboard - train the dataset and predict salary   
+
+- PROJECT 16 	Retail Analytics Dashboard  
+
+- PROJECT 17 	Real Estate Market Trends Predictor   
+
+- PROJECT 18 	Supply Chain Optimization Report  
+
+- PROJECT 19	Offer letter generation using RPA - automate the process and perform Exception handling  
+
+- PROJECT 20	Build a classification model for Drug Trails Dataset  
+
+- PROJECT 21 	Automate emotion analysis of textual comments and feedback  
+
+- PROJECT 22 	Automate identification of semantic errors for enabling errorless proof reading 
+
+- PROJECT 23 	Automate detection of different sentiments from paragraphs and predict overall sentiment 
+
+- PROJECT 24 	Research Competitors: Analyze Their Products, Pricing, and Market Positioning  
+
+- PROJECT 25 	Understanding and Managing Flexible and Collaborative Office Infrastructure  
+
+- PROJECT 26 	Classification model - Build a model that  classifies the side effects of a drug   
+
+- PROJECT 27  	Product Sales Data Analysis  
+
+- PROJECT 28 	Financial Performance Analysis  
+
+- PROJECT 29 	Marketing Campaign Analyzer 
+
+- PROJECT 30 	Manufacturing Process Efficiency Analyzer  
+
+- PROJECT 31 	Forecasting System - Project Demand of Products at a Retail Outlet Based on Historical Data  
+
+
+21 22  23  24 25  - invalid
+
+
+
+
+
+
